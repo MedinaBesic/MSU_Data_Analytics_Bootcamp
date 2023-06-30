@@ -1,2 +1,2 @@
 # MSU_Data_Analytics_Bootcamp
-Activities from the Bootcamp 
+Coursework for MSU Data Analytics Bootcamp
